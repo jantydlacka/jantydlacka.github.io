@@ -16,7 +16,7 @@ timezone: Europe/Prague
 
 title: Jan Tydlačka # the main title
 
-tagline: PHP Developer, webový vývojář na volné noze. # it will display as the subtitle
+tagline: PHP Developer. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog o PHP, webovém vývoji a dalších technologiích.
