@@ -6,7 +6,7 @@ date: 2026-02-20 21:00:00 +0100
 categories: [Programming, PHP]
 tags: [chronos, nette, bug, timezone]
 image:
-  path: /assets/img/posts/chronos-thief.jpg  # Cesta k tvému obrázku
+  path: assets/img/posts/chronos-thief.jpg
   alt: Timezone confusion diagram
 ---
 
