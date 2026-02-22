@@ -7,7 +7,6 @@ categories: [Programming, PHP]
 tags: [chronos, nette, bug, timezone]
 image:
   path: assets/img/posts/chronos-thief.jpg
-  alt: Timezone confusion diagram
 ---
 
 Při vývoji v Nette (nebo jakémkoliv jiném PHP frameworku) často spoléháme na to, že "čas je prostě čas". Jenže pak přijde nenápadný update knihovny a najednou zjistíte, že se vám data v databázi posouvají o den dozadu.
