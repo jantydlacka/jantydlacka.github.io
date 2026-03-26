@@ -46,11 +46,3 @@ Chyba byla v použití kódu **301**. Ten říká prohlížeči: „Tenhle web s
 > **Zlaté pravidlo vývojáře:**
 >
 > Při testování na localhostu používejte v `.htaccess` zásadně kód **302 (Found/Temporary)**. Ten prohlížečům říká, aby se příště znovu zeptaly, a vy tak zůstanete pánem situace.
-
-<style>
-  /* Oprava fontu pro českou diakritiku v detailu článku */
-  .post-desc {
-    font-style: normal !important;
-    font-weight: 400 !important; /* Nastaví normální tloušťku, která česky umí */
-  }
-</style>

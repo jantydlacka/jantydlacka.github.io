@@ -66,11 +66,3 @@ return Chronos::createFromTimestamp($ts, 'Europe/Prague');
 * **Timestampy jsou zrádné:** Při převodu mezi lokálním časem a timestampem vždy hrozí ztráta informace o časové zóně.
 * **Čtěte changelogy:** I minoritní update (3.0 -> 3.1) může obsahovat změnu chování (tzv. behavior change), která rozbije existující logiku.
 * **PHP 8.4:** Tato změna v Chronosu není náhodná – připravuje nás na standardizaci, která přichází přímo do jádra PHP.
-
-<style>
-  /* Oprava fontu pro českou diakritiku v detailu článku */
-  .post-desc {
-    font-style: normal !important;
-    font-weight: 400 !important; /* Nastaví normální tloušťku, která česky umí */
-  }
-</style>
