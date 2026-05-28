@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⏰Proč mi Chronos krade čas? Pozor na update 3.1.0"
+title: "⏰ Proč mi Chronos krade čas? Pozor na update 3.1.0"
 description: "Zjistěte, proč aktualizace knihovny Chronos na verzi 3.1.0 může posunout vaše data v DB o den zpět a jak tento timezone bug elegantně opravit."
 date: 2026-02-20 21:00:00 +0100
 categories: [Programming, PHP]
