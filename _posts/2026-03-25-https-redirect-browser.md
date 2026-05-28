@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: cs
+page_id: https-redirect-browser
 title: "🔓 Jak zrušit trvalé přesměrování na HTTPS v prohlížeči"
 description: "Rychlý návod, jak vyřešit problém s nechtěným přesměrováním na HTTPS na localhostu v prohlížečích Brave a Chrome."
 date: 2026-03-25 14:00:00 +0100

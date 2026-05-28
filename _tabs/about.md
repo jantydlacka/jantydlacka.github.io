@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: cs
 title: O mně
 icon: fas fa-info-circle
 order: 4

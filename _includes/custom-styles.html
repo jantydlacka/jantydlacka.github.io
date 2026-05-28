@@ -4,4 +4,36 @@
     font-style: normal !important;
     font-weight: 400 !important; /* Nastaví normální tloušťku, která česky umí */
   }
+
+  /* Language switcher */
+  .lang-switcher {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .lang-btn {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 2px 10px;
+    border-radius: 999px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.35);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    transition: color 0.15s, border-color 0.15s;
+    cursor: default;
+  }
+
+  a.lang-btn {
+    cursor: pointer;
+  }
+
+  a.lang-btn:hover {
+    color: rgba(255, 255, 255, 0.75);
+    border-color: rgba(255, 255, 255, 0.4);
+  }
+
+  .lang-btn--active {
+    color: rgba(255, 255, 255, 0.9);
+    border-color: rgba(255, 255, 255, 0.5);
+  }
 </style>

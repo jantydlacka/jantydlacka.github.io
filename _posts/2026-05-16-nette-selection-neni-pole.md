@@ -1,5 +1,7 @@
 ---
 layout: post
+lang: cs
+page_id: nette-selection-neni-pole
 title: "🔥 fetchAll() v DataGridu? Právě jste zabili server — aneb proč Selection není pole"
 description: "Předčasné stahování dat přes fetchAll() dokáže spolehlivě zabít server. Naučte se, jak v Nette DataGridu filtrovat chytře pomocí SQL receptů."
 date: 2026-05-16 20:15:00 +0200
