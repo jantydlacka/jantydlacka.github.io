@@ -8,7 +8,7 @@ date: 2026-10-27 22:00:00 +0100
 categories: [Programming, AI]
 tags: [claude, ai, api]
 image:
-  path: assets/img/posts/2026-10-27-claude-max-api-kredity.png
+  path: /assets/img/posts/2026-10-27-claude-max-api-kredity.png
 ---
 
 Možná každý měsíc propásnete **100 dolarů na API**. Nebo dvě stě, podle plánu. Stačí platit Claude Max a nikdy si pro ně nedojít.
