@@ -22,7 +22,7 @@ Možná každý měsíc propásnete **100 dolarů na API**. Nebo dvě stě, podl
 | Team | 20 USD za místo Standard, 100 USD za místo Premium, dohromady nejvýš 500 USD |
 | Free, Pro, Enterprise | nic |
 
-## Sám se nepřipíše
+## Kredit si musíte vyzvednout
 
 Na claude.ai otevřete **Settings → Billing** (u Team: **Organization settings → Billing**), v sekci *API credits* vyberete organizaci v [Claude Console](https://platform.claude.com/){:target="_blank" rel="noopener"} (nebo založíte novou), odkliknete podmínky a je to. Kredit se objeví v Console jako *Promotional credits*. Kdo si Max předplatil teprve nedávno, dostane nárok sedm dní po začátku předplatného.
 

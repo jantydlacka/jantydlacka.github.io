@@ -23,7 +23,7 @@ You may be leaving **$100 a month in API credit** on the table. Or $200, dependi
 | Team | $20 per Standard seat, $100 per Premium seat, pooled and capped at $500 |
 | Free, Pro, Enterprise | none |
 
-## It won't show up on its own
+## You have to claim it
 
 On claude.ai, open **Settings → Billing** (on Team: **Organization settings → Billing**), pick an organization in the [Claude Console](https://platform.claude.com/){:target="_blank" rel="noopener"} under *API credits* (or create one), accept the terms, done. The credit shows up in the Console as *Promotional credits*. You're eligible after seven days on the plan.
 
