@@ -48,6 +48,13 @@
     {% assign seo_tags = seo_tags | replace: old_meta_clip, new_meta_clip %}
   {% endif %}
 
+  <!-- Polyglot rewrites href URLs to /en/ but not og:url, so LinkedIn would fetch the Czech page -->
+  {% if site.active_lang != site.default_lang %}
+    {%- capture old_og_url -%}<meta property="og:url" content="{{ page.url | absolute_url }}" />{%- endcapture -%}
+    {%- capture new_og_url -%}<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/{{ site.active_lang }}{{ page.url }}" />{%- endcapture -%}
+    {% assign seo_tags = seo_tags | replace: old_og_url, new_og_url %}
+  {% endif %}
+
   {{ seo_tags }}
 
   <title>
