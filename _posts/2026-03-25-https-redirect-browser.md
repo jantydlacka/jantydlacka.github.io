@@ -8,7 +8,7 @@ date: 2026-03-25 14:00:00 +0100
 categories: [Programming, Web]
 tags: [localhost, https, devtools, hsts, brave, chrome]
 image:
-  path: assets/img/posts/2026-03-25-https-redirect-browser.png
+  path: /assets/img/posts/2026-03-25-https-redirect-browser.png
 ---
 
 Stane se to i v lepších rodinách. Ladíte `.htaccess` na localhostu, nastavíte si „na zkoušku“ přesměrování na HTTPS přes kód **301 (Permanent)**, a pak zjistíte, že i když pravidlo smažete, prohlížeč vás na HTTP už prostě nepustí.

@@ -8,7 +8,7 @@ date: 2026-05-16 20:15:00 +0200
 categories: [Programming, PHP]
 tags: [php, nette, database, optimization, datagrid, contributte]
 image:
-  path: assets/img/posts/2026-05-16-nette-selection-database.png
+  path: /assets/img/posts/2026-05-16-nette-selection-database.png
 permalink: /posts/nette-selection-neni-pole/
 ---
 

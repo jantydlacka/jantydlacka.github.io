@@ -8,7 +8,7 @@ date: 2026-10-20 08:00:00 +0200
 categories: [Programming, Linux]
 tags: [markdown, linux, bash, open-source]
 image:
-  path: assets/img/posts/2026-10-20-mdbrowse.png
+  path: /assets/img/posts/2026-10-20-mdbrowse.png
 permalink: /posts/mdbrowse/
 ---
 

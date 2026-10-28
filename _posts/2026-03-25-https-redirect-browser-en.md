@@ -8,7 +8,7 @@ date: 2026-03-25 14:00:00 +0100
 categories: [Programming, Web]
 tags: [localhost, https, devtools, hsts, brave, chrome]
 image:
-  path: assets/img/posts/2026-03-25-https-redirect-browser.png
+  path: /assets/img/posts/2026-03-25-https-redirect-browser.png
 permalink: /posts/https-redirect-browser/
 ---
 

@@ -8,7 +8,7 @@ date: 2026-05-29 08:00:00 +0200
 categories: [Programming, PHP]
 tags: [php, strict-types, type-system, best-practices]
 image:
-  path: assets/img/posts/2026-05-29-php-strict-types-en.png
+  path: /assets/img/posts/2026-05-29-php-strict-types-en.png
 permalink: /posts/php-strict-types/
 ---
 

@@ -8,7 +8,7 @@ date: 2026-05-29 08:00:00 +0200
 categories: [Programming, PHP]
 tags: [php, strict-types, type-system, best-practices]
 image:
-  path: assets/img/posts/2026-05-29-php-strict-types.png
+  path: /assets/img/posts/2026-05-29-php-strict-types.png
 ---
 
 Píšete `declare(strict_types=1)` na začátek každého PHP souboru. IDE vám to přidá automaticky. Ale co to přesně dělá? A kdy může překvapit na místě, kde to nečekáte?
