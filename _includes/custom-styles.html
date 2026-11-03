@@ -1,4 +1,29 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap">
 <style>
+  /* Výraznější nadpisy a tučné písmo v textu článku */
+  .content h2 {
+    font-weight: 700;
+    font-size: 1.6rem;
+    margin-top: 2.75rem;
+  }
+
+  .content h3 {
+    font-weight: 700;
+  }
+
+  .content strong {
+    font-weight: 700;
+  }
+
+  html[data-mode="dark"] .content strong,
+  html:not([data-mode]) .content strong {
+    color: #fff;
+  }
+
+  html[data-mode="light"] .content strong {
+    color: #000;
+  }
+
   /* Oprava fontu pro českou diakritiku v detailu článku */
   .post-desc {
     font-style: normal !important;
